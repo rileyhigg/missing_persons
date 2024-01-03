@@ -13,7 +13,7 @@ Data Question: How do missing persons cases correlate with with US Census data b
 Minimum Viable Product (MVP)
 Intended audience: peers, final capstone presentation for Nashville Software School DDA11, others interested in missing persons data in the US
 Visualizations: using Tableau and Canva dashboarding/presentation tools
-Analysis: Using Python (jupyter notebook) and Tableau
+Analysis/Cleaning: Using Python (jupyter notebook), Microsoft Excel, and Tableau
 
 Schedule (through 1/4/24)
 1. Get the Data (11/21/23)
@@ -29,6 +29,7 @@ Data Sources
 
 Known Issues and Challenges
 1. NamUs data will need to be cleaned to narrow down details of the cases, some data missing due to limited details surrounding case
-2. Need to narrow data down - year:2020, region: US excluding Alaska
+2. Need to narrow data down - year: 2020
 3. Utilizing geospatial data where needed
 4. Cleanup/reformatting of US Census data to work well with NamUs data
+5. Outliers
